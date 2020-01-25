@@ -1,0 +1,31 @@
+﻿## Build output
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+.vs/
+_ReSharper.*/
+*.ncb
+*.aps
+
+## NuGet
+packages/
+*.nupkg
+
+## Logs
+*.log
+*.tmp
+TestResults/
+
+## OS
+Thumbs.db
+.DS_Store
+desktop.ini
+## .NET
+*.cache
+*.pidb
+*.pdb
+*.ilk
+*.meta
+Generated_Code/
